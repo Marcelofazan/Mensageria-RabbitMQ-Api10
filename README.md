@@ -1,4 +1,4 @@
-## 🚀 RabbitMQprodutor
+## 🔌 RabbitMQprodutor
 Exemplo de criação API de Comunicação por Mensagaria com RabbitMQ em C# ASP.NET Core 10 com banco de dados SQLite.
 
 #### 🔄 Executar a aplicação 
@@ -23,7 +23,7 @@ dotnet run
 - Em Queues , existe uma tabela Overview na coluna name , clique em **(fila)**
 Desça até o botão Get Message(s) , voçê encontrará o Json enviado.
 
-## 🛠️ RabbitMQconsumir
+## 🔌 RabbitMQconsumir
 
 #### 🔄 Executar a aplicação 
 

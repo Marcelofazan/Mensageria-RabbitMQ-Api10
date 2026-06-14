@@ -35,4 +35,4 @@ dotnet ef migrations add CriarBancoInicial
 dotnet ef database update
 dotnet run 
 ```
-Os dados do arquivo **Json** serão gravados no SQLite.
+Os dados do arquivo **Json** serão gravados no SQLite. O consumer e a tabela somente são atualizados, se estiver em funcionamento, caso contrário, fica na fila de espera dentro do RabbitMQ.

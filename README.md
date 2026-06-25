@@ -9,6 +9,7 @@ Exemplo de comunicação API por mensageria com RabbitMQ em C# ASP.NET Core 10 c
 
 #### 💬 Requisitos do Projeto
 - Necessário **Docker** instalado.
+- Realizar Migrations EntityFramework .NET
 
 ## 📁 RabbitMQprodutor
 #### 🔄 Executar a aplicação 

@@ -25,6 +25,7 @@ cd RabbitMQprodutor
 dotnet run 
 ```
 
+#### 🧪 Executar Endpoints 
 | Host | URL |
 |-----------|-----------|
 | **API**      | http://localhost:5010/swagger/index.html  |

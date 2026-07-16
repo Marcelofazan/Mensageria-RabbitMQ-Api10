@@ -31,7 +31,8 @@ dotnet run
 | **API**      | http://localhost:5010/swagger/index.html  |
 | **RabbitMQ** | http://localhost:15672/ |
 
-Queues and Streams -> Em Queues , existe uma tabela Overview na coluna name , clique em **(fila)**
+#### 🌐 RabbitMQ Interface Web (UI)
+Vá em Queues and Streams -> Em Queues , existe uma tabela Overview na coluna name , clique em **(fila)**
 Desça até o botão Get Message(s) , voçê encontrará o Json enviado.
 
 ## 📁  RabbitMQconsumir
